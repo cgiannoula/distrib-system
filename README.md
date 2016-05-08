@@ -1,7 +1,7 @@
 # distrib-system
 Distributed System Emulator for DHT
 
-This is a distributed system emulator for a Distributed Hash Table (DHT). <br />
+This is a distributed system emulator for a Distributed Hash Table (DHT). 
 The DHT developed is a simplified version of Chord protocol.
 
 Databases, 9th semester <br />
